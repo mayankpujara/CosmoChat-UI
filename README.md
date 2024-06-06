@@ -1,3 +1,11 @@
+# CosmoChat UI
+
+CosmoChat UI is a cutting-edge chat interface created to improve online conversation by offering a smooth and engaging user interface. It is constructed with cutting-edge frontend technologies, such Redux and React, and integrates OpenAI's GPT technology to provide intelligent, automatic responses that improve user experience. Real-time message delivery, user theme customization, and a responsive layout are some of its key advantages. CosmoChat UI hopes to turn static communications into dynamic discussions by integrating with OpenAI, guaranteeing that messages are not only exchanged but also informative and interesting.
+
+## Tools and Technologies used:
+- React.js
+- OpenAI API
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
